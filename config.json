@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-automation",
+      "title": "Automating Tasks with Python Scripts",
+      "description": "Write Python scripts to automate file organization, text search, and command-line workflows.",
+      "path": "assignments/python-automation",
+      "dueDate": "2026-06-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
